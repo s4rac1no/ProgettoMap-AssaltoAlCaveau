@@ -1,0 +1,17 @@
+
+ Per interagire all’interno del gioco dovrai utilizzare i seguenti comandi:
+ - NORD, SUD, EST, OVEST - per spostarti tra le varie zone.
+ - GUARDA o OSSERVA – per utilizzare gli occhi.
+ - ESAMINA (QUALCOSA) – per guardare con più destrezza qualcosa.
+ - INVENTARIO – premi sull'icona del borsone.
+ - APRI (QUALCOSA) – per interagire con gli oggetti posizionati sulla mappa.
+   (Esempio: APRI scatola).
+ - APRI (QUALCOSA) CON (QUALCOSA) – per interagire con gli oggetti posizionati sulla mappa.
+   (Esempio: APRI porta CON chiave).
+ - UTILIZZA (QUALCOSA) – per utilizzare gli strumenti.
+   (Esempio:  UTILIZZA cacciavite).
+ - SALI SU (QUALCOSA) - per salire sugli oggetti.
+ - HELPME – premi sul bottone COMANDI.
+ - PRENDI - per raccogliere un oggetto.
+ - PREMI - per premere un oggetto.
+ - SALVA - per salvare la partita
